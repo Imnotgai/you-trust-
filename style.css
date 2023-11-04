@@ -2,8 +2,27 @@ body{
     background-color:black;
 
 }
+.whiteText{
+    color:white;
+    font-size:30px;
+}
 
 .Div1{
     color:white;
-    
+    text-align:center;
+    font-family:"Libre Baskervilly", serif;
+}
+
+.Div2{
+    margin-right: 10px;
+    color:red;
+    font-family:"Libre Baskervilly", serif;
+}
+
+.imgFirst{
+    border:5px solid white;
+}
+
+.imgSecond{
+    text-align:center;
 }
